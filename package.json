@@ -17,6 +17,6 @@
   "main": "scripts/index.coffee",
   "dependencies": {
     "hubot": ">= 2.4.0",
-    "chromecast": ">= 0.0.4"
+    "chromecast": ">=0.0.6"
   }
 }
