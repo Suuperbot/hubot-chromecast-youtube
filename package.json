@@ -16,7 +16,7 @@
   "readmeFilename": "README.md",
   "main": "scripts/index.coffee",
   "dependencies": {
-    "hubot": ">= 2.4.0",
+    "hubot": ">=3.3.2",
     "chromecast": ">= 0.0.4"
   }
 }
